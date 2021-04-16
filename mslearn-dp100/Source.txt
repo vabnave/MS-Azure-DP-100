@@ -1,1 +1,3 @@
-https://github.com/microsoftdocs/ml-basics
+https://aka.ms/mslearn-dp100
+https://microsoftlearning.github.io/mslearn-dp100/
+https://github.com/MicrosoftLearning/mslearn-dp100
